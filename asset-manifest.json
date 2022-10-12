@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-hover-dropdown/static/css/main.0abe46d3.css",
+    "main.js": "/react-hover-dropdown/static/js/main.eed6a78b.js",
+    "index.html": "/react-hover-dropdown/index.html",
+    "main.0abe46d3.css.map": "/react-hover-dropdown/static/css/main.0abe46d3.css.map",
+    "main.eed6a78b.js.map": "/react-hover-dropdown/static/js/main.eed6a78b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0abe46d3.css",
+    "static/js/main.eed6a78b.js"
+  ]
+}
